@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_mid">#C07830</color>
+    <color name="amber_mid_bg">#FFF4E0</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_header">#C2607A</color>
+    <color name="bg_main">#FDF0F3</color>
+    <color name="black">#FF000000</color>
+    <color name="brand_accent">#F4A57A</color>
+    <color name="brand_primary">#C2607A</color>
+    <color name="brand_primary_dark">#8E3A52</color>
+    <color name="brand_primary_light">#EAAABB</color>
+    <color name="divider">#F5DDE4</color>
+    <color name="green_paid">#3D8C6A</color>
+    <color name="green_paid_bg">#E4F5EE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_high">#B84060</color>
+    <color name="red_high_bg">#FDEAEF</color>
+    <color name="ripple">#20C2607A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_hint">#AAAAAA</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_customer">Add Customer</string>
+    <string name="app_name">Grama-Khata</string>
+    <string name="give_credit">Give Credit (+)</string>
+    <string name="no_customers">No customers yet.\nTap + to add your first customer!</string>
+    <string name="no_transactions">No transactions yet.\nTap Give Credit or Receive Payment to start.</string>
+    <string name="search_hint">Search customers…</string>
+    <string name="send_reminder">Remind on WhatsApp</string>
+    <string name="share_report">Daily Report</string>
+    <string name="tagline">Your Digital Village Ledger</string>
+    <string name="take_payment">Receive Payment (-)</string>
+    <string name="total_due">Total Due</string>
+    <style name="BtnCredit" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/red_high_bg</item>
+        <item name="android:textColor">@color/red_high</item>
+        <item name="iconTint">@color/red_high</item>
+        <item name="strokeColor">@color/red_high</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="BtnPayment" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/green_paid_bg</item>
+        <item name="android:textColor">@color/green_paid</item>
+        <item name="iconTint">@color/green_paid</item>
+        <item name="strokeColor">@color/green_paid</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="BtnRemind" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/brand_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="GramaKhataCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/bg_card</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">16dp</item>
+    </style>
+    <style name="GramaKhataFAB" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/brand_primary</item>
+        <item name="tint">@color/white</item>
+        <item name="elevation">8dp</item>
+    </style>
+    <style name="GramaKhataToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/brand_primary</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="navigationIconTint">@color/white</item>
+    </style>
+    <style name="Theme.GramaKhata" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorPrimaryVariant">@color/brand_primary_dark</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="colorSecondary">@color/brand_accent</item>
+        <item name="colorOnSecondary">@color/text_on_primary</item>
+        <item name="android:colorBackground">@color/bg_main</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+        <item name="android:statusBarColor">@color/brand_primary_dark</item>
+        <item name="android:navigationBarColor">@color/brand_primary_dark</item>
+    </style>
+    <style name="Theme.GramaKhata.Splash" parent="Theme.GramaKhata">
+        <item name="android:windowBackground">@color/brand_primary</item>
+        <item name="android:statusBarColor">@color/brand_primary</item>
+        <item name="android:navigationBarColor">@color/brand_primary</item>
+    </style>
+</resources>

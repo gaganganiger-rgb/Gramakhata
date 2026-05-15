@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors - Rose & Blush palette -->
+    <color name="brand_primary">#C2607A</color>
+    <color name="brand_primary_dark">#8E3A52</color>
+    <color name="brand_primary_light">#EAAABB</color>
+    <color name="brand_accent">#F4A57A</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_main">#FDF0F3</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_header">#C2607A</color>
+
+    <!-- Status Colors -->
+    <color name="red_high">#B84060</color>
+    <color name="red_high_bg">#FDEAEF</color>
+    <color name="amber_mid">#C07830</color>
+    <color name="amber_mid_bg">#FFF4E0</color>
+    <color name="green_paid">#3D8C6A</color>
+    <color name="green_paid_bg">#E4F5EE</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#AAAAAA</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Others -->
+    <color name="divider">#F5DDE4</color>
+    <color name="ripple">#20C2607A</color>
+
+    <!-- Material -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/drawable_ic_payment.xml.flat",
+        "source": "com.gramakhata.app-main-56:/drawable/ic_payment.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/drawable_ic_person_placeholder.xml.flat",
+        "source": "com.gramakhata.app-main-56:/drawable/ic_person_placeholder.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_dialog_add_transaction.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.gramakhata.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.gramakhata.app-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_item_customer.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/item_customer.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_item_transaction.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/drawable_bg_badge_rounded.xml.flat",
+        "source": "com.gramakhata.app-main-56:/drawable/bg_badge_rounded.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/xml_file_paths.xml.flat",
+        "source": "com.gramakhata.app-main-56:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/drawable_ic_credit.xml.flat",
+        "source": "com.gramakhata.app-main-56:/drawable/ic_credit.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_activity_add_customer.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/activity_add_customer.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_activity_customer_detail.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/activity_customer_detail.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_activity_main.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.gramakhata.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gramakhata.app-merged_res-54:/layout_activity_splash.xml.flat",
+        "source": "com.gramakhata.app-main-56:/layout/activity_splash.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.gramakhata.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/item_transaction.xml",
+        "source": "com.gramakhata.app-main-56:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/activity_customer_detail.xml",
+        "source": "com.gramakhata.app-main-56:/layout/activity_customer_detail.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/item_customer.xml",
+        "source": "com.gramakhata.app-main-56:/layout/item_customer.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/activity_splash.xml",
+        "source": "com.gramakhata.app-main-56:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/dialog_add_transaction.xml",
+        "source": "com.gramakhata.app-main-56:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "com.gramakhata.app-mergeDebugResources-53:/layout/activity_add_customer.xml",
+        "source": "com.gramakhata.app-main-56:/layout/activity_add_customer.xml"
+    }
+]

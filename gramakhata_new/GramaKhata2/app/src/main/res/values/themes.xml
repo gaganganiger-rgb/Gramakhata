@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GramaKhata" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorPrimaryVariant">@color/brand_primary_dark</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="colorSecondary">@color/brand_accent</item>
+        <item name="colorOnSecondary">@color/text_on_primary</item>
+        <item name="android:colorBackground">@color/bg_main</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+        <item name="android:statusBarColor">@color/brand_primary_dark</item>
+        <item name="android:navigationBarColor">@color/brand_primary_dark</item>
+    </style>
+
+    <style name="Theme.GramaKhata.Splash" parent="Theme.GramaKhata">
+        <item name="android:windowBackground">@color/brand_primary</item>
+        <item name="android:statusBarColor">@color/brand_primary</item>
+        <item name="android:navigationBarColor">@color/brand_primary</item>
+    </style>
+
+    <!-- Toolbar style -->
+    <style name="GramaKhataToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/brand_primary</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="navigationIconTint">@color/white</item>
+    </style>
+
+    <!-- FAB style -->
+    <style name="GramaKhataFAB" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/brand_primary</item>
+        <item name="tint">@color/white</item>
+        <item name="elevation">8dp</item>
+    </style>
+
+    <!-- Card style -->
+    <style name="GramaKhataCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/bg_card</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">16dp</item>
+    </style>
+
+    <!-- Button Credit -->
+    <style name="BtnCredit" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/red_high_bg</item>
+        <item name="android:textColor">@color/red_high</item>
+        <item name="iconTint">@color/red_high</item>
+        <item name="strokeColor">@color/red_high</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Button Payment -->
+    <style name="BtnPayment" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/green_paid_bg</item>
+        <item name="android:textColor">@color/green_paid</item>
+        <item name="iconTint">@color/green_paid</item>
+        <item name="strokeColor">@color/green_paid</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Button Remind -->
+    <style name="BtnRemind" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/brand_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+</resources>

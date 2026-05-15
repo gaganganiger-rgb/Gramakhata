@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gramakhata.app-mergeDebugResources-52:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gagan\\.gradle\\caches\\8.13\\transforms\\3eda67a4eba06f913f6314acf1dd5851\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
